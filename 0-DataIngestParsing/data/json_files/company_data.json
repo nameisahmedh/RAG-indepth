@@ -1,0 +1,79 @@
+{
+    "company": {
+        "name": "TechNova Solutions",
+        "location": "Bangalore",
+        "departments": [
+            {
+                "dept_name": "Engineering",
+                "manager": "Rahul Mehta",
+                "teams": [
+                    {
+                        "team_name": "Backend",
+                        "members": [
+                            {
+                                "id": 1,
+                                "name": "Aisha",
+                                "role": "Backend Developer",
+                                "skills": [
+                                    "Python",
+                                    "Django",
+                                    "PostgreSQL"
+                                ],
+                                "projects": [
+                                    {
+                                        "project_id": "P101",
+                                        "title": "Order Processing API",
+                                        "status": "In Progress"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "team_name": "Data",
+                        "members": [
+                            {
+                                "id": 2,
+                                "name": "Karan",
+                                "role": "Data Analyst",
+                                "skills": [
+                                    "SQL",
+                                    "Pandas",
+                                    "PowerBI"
+                                ],
+                                "projects": [
+                                    {
+                                        "project_id": "P202",
+                                        "title": "Sales Insights Dashboard",
+                                        "status": "Completed"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "dept_name": "HR",
+                "manager": "Meera Kapoor",
+                "teams": [
+                    {
+                        "team_name": "HR Team",
+                        "members": [
+                            {
+                                "id": 3,
+                                "name": "Sara",
+                                "role": "HR Executive",
+                                "skills": [
+                                    "Recruitment",
+                                    "Payroll",
+                                    "Training"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

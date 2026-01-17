@@ -1,0 +1,8 @@
+
+Artificial Intelligence (AI) refers to systems designed
+to perform tasks that normally require human intelligence,
+such as reasoning, learning, perception, and language
+understanding.
+
+Modern AI applications include chatbots, recommendation
+systems, autonomous vehicles, and predictive analytics.
