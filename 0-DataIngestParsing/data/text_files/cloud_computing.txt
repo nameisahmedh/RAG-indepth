@@ -1,0 +1,6 @@
+
+Cloud computing allows users to store and process data
+over the internet instead of on local machines.
+
+It offers benefits such as scalability, flexibility,
+cost efficiency, and remote accessibility.
